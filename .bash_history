@@ -36,3 +36,40 @@ vi rohit.txt
 git add .
 git commit -m "rohitfile"
 git push origin1 master
+cd myproject/
+ls
+git status
+git add .
+git status
+git add demo.txt 
+git status
+ls
+git add .
+git status
+git commit -m "jdh"
+git status
+clear
+ls
+rm demo.txt 
+ls
+vi demo.html
+git status
+git add .
+git status
+cd ..
+ls
+rm -rf myfile.txt rohit.html rohit.txt 
+ls
+cd myproject/
+ls
+git status
+cd ..
+ls
+rmdir myproject/
+cd myproject/
+rm demo.html 
+cd
+rmdir myproject/
+ls
+clear
+mkrid rohit.txt

@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1713433719,,"wq!"
+|2,0,1713436293,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,28 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/myproject/rohit.txt
-|4,48,1,4,1713433719,"~/myproject/rohit.txt"
+'0  1  0  /tmp/git-blob-960THG/.bash_history
+|4,48,1,0,1713436293,"/tmp/git-blob-960THG/.bash_history"
+'1  1  4  ~/myproject/rohit.txt
+|4,49,1,4,1713433719,"~/myproject/rohit.txt"
 
 # Jumplist (newest first):
+-'  1  0  /tmp/git-blob-960THG/.bash_history
+|4,39,1,0,1713436293,"/tmp/git-blob-960THG/.bash_history"
+-'  1  4  ~/myproject/rohit.txt
+|4,39,1,4,1713433719,"~/myproject/rohit.txt"
 -'  1  4  ~/myproject/rohit.txt
 |4,39,1,4,1713433719,"~/myproject/rohit.txt"
 
 # History of marks within files (newest to oldest):
+
+> /tmp/git-blob-960THG/.bash_history
+	*	1713436281	0
+	"	1	0
+
+> ~/.bash_history
+	*	1713436262	0
+	"	1	0
 
 > ~/myproject/rohit.txt
 	*	1713433718	0
