@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1713432619,,"wq!"
+|2,0,1713433719,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,77 +25,18 @@
 # Registers:
 
 # File marks:
-'0  2  25  ~/rohit.html
-|4,48,2,25,1713432619,"~/rohit.html"
-'1  1  18  ~/rohit.html
-|4,49,1,18,1713432542,"~/rohit.html"
-'2  1  18  ~/rohit.html
-|4,50,1,18,1713432542,"~/rohit.html"
-'3  2  0  ~/rohit.txt
-|4,51,2,0,1713425778,"~/rohit.txt"
-'4  1  16  ~/myfile.txt
-|4,52,1,16,1713424796,"~/myfile.txt"
+'0  1  4  ~/myproject/rohit.txt
+|4,48,1,4,1713433719,"~/myproject/rohit.txt"
 
 # Jumplist (newest first):
--'  2  25  ~/rohit.html
-|4,39,2,25,1713432619,"~/rohit.html"
--'  1  18  ~/rohit.html
-|4,39,1,18,1713432606,"~/rohit.html"
--'  1  18  ~/rohit.html
-|4,39,1,18,1713432542,"~/rohit.html"
--'  2  0  ~/rohit.txt
-|4,39,2,0,1713425778,"~/rohit.txt"
--'  2  0  ~/rohit.txt
-|4,39,2,0,1713425778,"~/rohit.txt"
--'  2  0  ~/rohit.txt
-|4,39,2,0,1713425778,"~/rohit.txt"
--'  2  0  ~/rohit.txt
-|4,39,2,0,1713425778,"~/rohit.txt"
--'  1  0  ~/rohit.txt
-|4,39,1,0,1713425756,"~/rohit.txt"
--'  1  0  ~/rohit.txt
-|4,39,1,0,1713425756,"~/rohit.txt"
--'  1  0  ~/rohit.txt
-|4,39,1,0,1713425756,"~/rohit.txt"
--'  1  0  ~/rohit.txt
-|4,39,1,0,1713425756,"~/rohit.txt"
--'  1  16  ~/myfile.txt
-|4,39,1,16,1713424796,"~/myfile.txt"
--'  1  16  ~/myfile.txt
-|4,39,1,16,1713424796,"~/myfile.txt"
--'  1  16  ~/myfile.txt
-|4,39,1,16,1713424796,"~/myfile.txt"
--'  1  16  ~/myfile.txt
-|4,39,1,16,1713424796,"~/myfile.txt"
--'  1  16  ~/myfile.txt
-|4,39,1,16,1713424796,"~/myfile.txt"
--'  1  16  ~/myfile.txt
-|4,39,1,16,1713424796,"~/myfile.txt"
--'  1  16  ~/myfile.txt
-|4,39,1,16,1713424796,"~/myfile.txt"
--'  1  16  ~/myfile.txt
-|4,39,1,16,1713424796,"~/myfile.txt"
+-'  1  4  ~/myproject/rohit.txt
+|4,39,1,4,1713433719,"~/myproject/rohit.txt"
 
 # History of marks within files (newest to oldest):
 
-> ~/rohit.html
-	*	1713432618	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	1	19
-	+	2	25
-
-> ~/rohit.txt
-	*	1713425776	0
-	"	2	0
-	^	2	0
-	.	1	25
-	+	1	25
-
-> ~/myfile.txt
-	*	1713424791	0
-	"	1	16
-	^	1	17
-	.	1	16
-	+	1	16
+> ~/myproject/rohit.txt
+	*	1713433718	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
